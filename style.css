@@ -2,3 +2,8 @@
     margin: 0;
     padding: 0;
 }
+body {
+    font-family: monospace, sans-serif;
+    background: linear-gradient(#fff, #78abff);
+    min-height: 100vh;
+}
